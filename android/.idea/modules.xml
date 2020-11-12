@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NativeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/NativeApp.iml" group="NativeApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="NativeApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-542029388/react-native-android-wifi.iml" filepath="$PROJECT_DIR$/.idea/modules/-542029388/react-native-android-wifi.iml" group="NativeApp/react-native-android-wifi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/427771556/react-native-settings.iml" filepath="$PROJECT_DIR$/.idea/modules/427771556/react-native-settings.iml" group="NativeApp/react-native-settings" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1043106957/react-native-system-setting.iml" filepath="$PROJECT_DIR$/.idea/modules/-1043106957/react-native-system-setting.iml" group="NativeApp/react-native-system-setting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1708514972/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1708514972/react-native-webview.iml" group="NativeApp/react-native-webview" />
+    </modules>
+  </component>
+</project>

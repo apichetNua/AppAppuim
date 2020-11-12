@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nativeapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.54.0] C:\Users\anuam\.gradle\caches\transforms-2\files-2.1\1c7787ec82631e0394972c76bdabe608\flipper-0.54.0\AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.54.0] C:\Users\anuam\.gradle\caches\transforms-2\files-2.1\1c7787ec82631e0394972c76bdabe608\flipper-0.54.0\AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+14-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-76
+14-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-73
+15    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+15-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-79
+15-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-76
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+16-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-76
+17    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+17-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-73
+17-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-70
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-79
+18-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-76
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-81
+19-->[:react-native-android-wifi] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-android-wifi\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-78
+20
+21    <application
+21-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:6:5-25:19
+22        android:name="com.nativeapp.MainApplication"
+22-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:7:7-38
+23        android:allowBackup="false"
+23-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:11:7-34
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] C:\Users\anuam\.gradle\caches\transforms-2\files-2.1\639e914bfc1efa21e36199d3ff2c5eef\core-1.1.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:9:7-41
+27        android:label="@string/app_name"
+27-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:8:7-39
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:10:7-52
+29        android:theme="@style/AppTheme"
+29-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:12:7-38
+30        android:usesCleartextTraffic="true" >
+30-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\debug\AndroidManifest.xml:7:18-53
+31        <activity
+31-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:13:7-23:18
+32            android:name="com.nativeapp.MainActivity"
+32-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:14:9-37
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+33-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:16:9-86
+34            android:label="@string/app_name"
+34-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:15:9-41
+35            android:launchMode="singleTask"
+35-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:17:9-40
+36            android:windowSoftInputMode="adjustResize" >
+36-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:18:9-51
+37            <intent-filter>
+37-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:19:9-22:25
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:20:13-65
+38-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:20:21-62
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:21:13-73
+40-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:21:23-70
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+43-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:24:7-84
+43-->C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\android\app\src\main\AndroidManifest.xml:24:17-81
+44
+45        <provider
+45-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+46            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+46-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+47            android:authorities="com.nativeapp.fileprovider"
+47-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+48            android:exported="false"
+48-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+49            android:grantUriPermissions="true" >
+49-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+50            <meta-data
+50-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:63
+51                android:name="android.support.FILE_PROVIDER_PATHS"
+51-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+52                android:resource="@xml/file_provider_paths" />
+52-->[:react-native-webview] C:\Users\anuam\Downloads\react-native-appium-master\react-native-appium-master\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-60
+53        </provider>
+54    </application>
+55
+56</manifest>
